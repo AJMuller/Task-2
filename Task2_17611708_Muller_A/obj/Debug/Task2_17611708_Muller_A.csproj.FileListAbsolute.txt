@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.Form1.resources
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.Properties.Resources.resources
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.csproj.GenerateResource.Cache
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\bin\Debug\Task2_17611708_Muller_A.exe.config
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\bin\Debug\Task2_17611708_Muller_A.exe
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\bin\Debug\Task2_17611708_Muller_A.pdb
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.exe
+c:\users\user\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.pdb
+C:\Users\User\source\repos\Task2_17611708_Muller_A\Task2_17611708_Muller_A\obj\Debug\Task2_17611708_Muller_A.csprojResolveAssemblyReference.cache
